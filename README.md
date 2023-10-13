@@ -1,4 +1,4 @@
 # demo
 first repository
 <br> 
-author --Suvidha Parmar
+author --Suvidha  N. Parmar 
